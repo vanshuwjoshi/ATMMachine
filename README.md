@@ -1,6 +1,6 @@
 # ATMMachineJava
 
-This Java project is a simple ATM (Automated Teller Machine) simulation that leverages object-oriented programming (OOP) concepts to provide the following functionalities:
+This project is a simple ATM (Automated Teller Machine) simulation that leverages object-oriented programming (OOP) concepts (using Python and Java) to provide the following functionalities:
 
 1. Check the PIN entered by the user.
 2. Check account balance.
